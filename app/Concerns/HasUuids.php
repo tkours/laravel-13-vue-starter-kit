@@ -1,11 +1,12 @@
 <?php
+
 //
-//namespace App\Concerns;
+// namespace App\Concerns;
 //
-//use Illuminate\Database\Eloquent\Concerns\HasUuids as BaseHasUuids;
+// use Illuminate\Database\Eloquent\Concerns\HasUuids as BaseHasUuids;
 //
-//trait HasUuids
-//{
+// trait HasUuids
+// {
 //    use BaseHasUuids;
 //
 //    /**
@@ -20,4 +21,4 @@
 //    {
 //        return 'uuid';
 //    }
-//}
+// }
