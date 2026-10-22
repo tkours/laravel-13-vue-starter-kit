@@ -199,6 +199,4 @@ Vue components must have a single root element.
 
 <project-guidelines>
 
-
-
 </project-guidelines>
